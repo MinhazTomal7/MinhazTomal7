@@ -1,3 +1,4 @@
+![logo](https://github.com/MinhazTomal7/MinhazTomal7/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Minhazul Amin Tomal</h1>
 <h3 align="center">A passionate full-stack web developer specializing in the MERN stack.</h3>
 
